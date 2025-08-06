@@ -1,8 +1,8 @@
-| #   | Problem                                                  | Link                                                                                             | ✅ |
+| #   | Problem                                                  | Link                                                                                             | Answer |
 | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | - |
-| 1   | Two Sum                                                  | [#1](https://leetcode.com/problems/two-sum/) | ☐ |
-| 2   | Reverse Integer                                          | [#7](https://leetcode.com/problems/reverse-integer/)                                             | ☐ |
-| 3   | Palindrome Number                                        | [#9](https://leetcode.com/problems/palindrome-number/)                                           | ☐ |
+| 1   | Two Sum                                                  | [#1](https://leetcode.com/problems/two-sum/)                                                     |(https://leetcode.com/problems/two-sum/description/) |
+| 2   | Reverse Integer                                          | [#7](https://leetcode.com/problems/reverse-integer/)                                             |https://leetcode.com/problems/reverse-integer/description/   |
+| 3   | Palindrome Number                                        | [#9](https://leetcode.com/problems/palindrome-number/)                                           | https://leetcode.com/problems/palindrome-number/description/ |
 | 4   | Roman to Integer                                         | [#13](https://leetcode.com/problems/roman-to-integer/)                                           | ☐ |
 | 5   | Valid Parentheses                                        | [#20](https://leetcode.com/problems/valid-parentheses/)                                          | ☐ |
 | 6   | Merge Two Sorted Lists                                   | [#21](https://leetcode.com/problems/merge-two-sorted-lists/)                                     | ☐ |
