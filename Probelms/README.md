@@ -3,9 +3,9 @@
 | 1   | Two Sum                                                  | [#1](https://leetcode.com/problems/two-sum/)                                                     |(https://leetcode.com/problems/two-sum/description/) |
 | 2   | Reverse Integer                                          | [#7](https://leetcode.com/problems/reverse-integer/)                                             |https://leetcode.com/problems/reverse-integer/description/   |
 | 3   | Palindrome Number                                        | [#9](https://leetcode.com/problems/palindrome-number/)                                           | https://leetcode.com/problems/palindrome-number/description/ |
-| 4   | Roman to Integer                                         | [#13](https://leetcode.com/problems/roman-to-integer/)                                           | ☐ |
-| 5   | Valid Parentheses                                        | [#20](https://leetcode.com/problems/valid-parentheses/)                                          | ☐ |
-| 6   | Merge Two Sorted Lists                                   | [#21](https://leetcode.com/problems/merge-two-sorted-lists/)                                     | ☐ |
+| 4   | Roman to Integer                                         | [#13](https://leetcode.com/problems/roman-to-integer/)                                           | https://leetcode.com/problems/roman-to-integer/description/ |
+| 5   | Valid Parentheses                                        | [#20](https://leetcode.com/problems/valid-parentheses/)                                          | https://leetcode.com/problems/valid-parentheses/description/ |
+| 6   | Merge Two Sorted Lists                                   | [#21](https://leetcode.com/problems/merge-two-sorted-lists/)                                     | https://leetcode.com/problems/merge-two-sorted-lists/description/ |
 | 7   | Remove Duplicates from Sorted Array                      | [#26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                        | ☐ |
 | 8   | Remove Element                                           | [#27](https://leetcode.com/problems/remove-element/)                                             | ☐ |
 | 9   | Find the Index of the First Occurrence in a String       | [#28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)         | ☐ |
