@@ -1,4 +1,4 @@
-| #   | Problem                                                  | Link                                                                                             | Answer |
+| #   | ##Problem                                                  | ##Link                                                                                             | ##Answer |
 | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | - |
 | 1   | Two Sum                                                  | [#1](https://leetcode.com/problems/two-sum/)                                                     |(https://leetcode.com/problems/two-sum/description/) |
 | 2   | Reverse Integer                                          | [#7](https://leetcode.com/problems/reverse-integer/)                                             |https://leetcode.com/problems/reverse-integer/description/   |
