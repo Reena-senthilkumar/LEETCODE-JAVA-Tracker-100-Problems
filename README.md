@@ -6,12 +6,12 @@
 | 4   | Roman to Integer                                         | [#13](https://leetcode.com/problems/roman-to-integer/)                                           | https://leetcode.com/problems/roman-to-integer/description/ |
 | 5   | Valid Parentheses                                        | [#20](https://leetcode.com/problems/valid-parentheses/)                                          | https://leetcode.com/problems/valid-parentheses/description/ |
 | 6   | Merge Two Sorted Lists                                   | [#21](https://leetcode.com/problems/merge-two-sorted-lists/)                                     | https://leetcode.com/problems/merge-two-sorted-lists/description/ |
-| 7   | Remove Duplicates from Sorted Array                      | [#26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                        | ☐ |
-| 8   | Remove Element                                           | [#27](https://leetcode.com/problems/remove-element/)                                             | ☐ |
-| 9   | Find the Index of the First Occurrence in a String       | [#28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)         | ☐ |
-| 10  | Length of Last Word                                      | [#58](https://leetcode.com/problems/length-of-last-word/)                                        | ☐ |
-| 11  | Plus One                                                 | [#66](https://leetcode.com/problems/plus-one/)                                                   | ☐ |
-| 12  | Add Binary                                               | [#67](https://leetcode.com/problems/add-binary/)                                                 | ☐ |
+| 7   | Remove Duplicates from Sorted Array                      | [#26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                        | https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/|
+| 8   | Remove Element                                           | [#27](https://leetcode.com/problems/remove-element/)                                             | https://leetcode.com/problems/remove-element/description/ |
+| 9   | Find the Index of the First Occurrence in a String       | [#28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)         | https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/ |
+| 10  | Length of Last Word                                      | [#58](https://leetcode.com/problems/length-of-last-word/)                                        | https://leetcode.com/problems/length-of-last-word/description/ |
+| 11  | Plus One                                                 | [#66](https://leetcode.com/problems/plus-one/)                                                   | https://leetcode.com/problems/plus-one/description/ |
+| 12  | Add Binary                                               | [#67](https://leetcode.com/problems/add-binary/)                                                 | https://leetcode.com/problems/add-binary/description/ |
 | 13  | Sqrt(x)                                                  | [#69](https://leetcode.com/problems/sqrtx/)                                                      | ☐ |
 | 14  | Climbing Stairs                                          | [#70](https://leetcode.com/problems/climbing-stairs/)                                            | ☐ |
 | 15  | Remove Duplicates from Sorted List                       | [#83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                         | ☐ |
