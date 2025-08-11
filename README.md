@@ -12,7 +12,7 @@
 | 10  | Length of Last Word                                      | [#58](https://leetcode.com/problems/length-of-last-word/)                                        | https://leetcode.com/problems/length-of-last-word/description/ |
 | 11  | Plus One                                                 | [#66](https://leetcode.com/problems/plus-one/)                                                   | https://leetcode.com/problems/plus-one/description/ |
 | 12  | Add Binary                                               | [#67](https://leetcode.com/problems/add-binary/)                                                 | https://leetcode.com/problems/add-binary/description/ |
-| 13  | Sqrt(x)                                                  | [#69](https://leetcode.com/problems/sqrtx/)                                                      | ☐ |
+| 13  | Sqrt(x)                                                  | [#69](https://leetcode.com/problems/sqrtx/)                                                      | https://leetcode.com/problems/sqrtx/description/|
 | 14  | Climbing Stairs                                          | [#70](https://leetcode.com/problems/climbing-stairs/)                                            | ☐ |
 | 15  | Remove Duplicates from Sorted List                       | [#83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                         | ☐ |
 | 16  | Merge Sorted Array                                       | [#88](https://leetcode.com/problems/merge-sorted-array/)                                         | ☐ |
