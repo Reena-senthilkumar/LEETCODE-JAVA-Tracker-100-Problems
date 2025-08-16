@@ -13,10 +13,10 @@
 | 11  | Plus One                                                 | [#66](https://leetcode.com/problems/plus-one/)                                                   | https://leetcode.com/problems/plus-one/description/ |
 | 12  | Add Binary                                               | [#67](https://leetcode.com/problems/add-binary/)                                                 | https://leetcode.com/problems/add-binary/description/ |
 | 13  | Sqrt(x)                                                  | [#69](https://leetcode.com/problems/sqrtx/)                                                      | https://leetcode.com/problems/sqrtx/description/|
-| 14  | Climbing Stairs                                          | [#70](https://leetcode.com/problems/climbing-stairs/)                                            | ☐ |
+| 14  | Climbing Stairs                                          | [#70](https://leetcode.com/problems/climbing-stairs/)                                            | https://leetcode.com/problems/climbing-stairs/description/ |
 | 15  | Remove Duplicates from Sorted List                       | [#83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                         | ☐ |
-| 16  | Merge Sorted Array                                       | [#88](https://leetcode.com/problems/merge-sorted-array/)                                         | ☐ |
-| 17  | Binary Tree Inorder Traversal                            | [#94](https://leetcode.com/problems/binary-tree-inorder-traversal/)                              | ☐ |
+| 16  | Merge Sorted Array                                       | [#88](https://leetcode.com/problems/merge-sorted-array/)                                         | https://leetcode.com/problems/merge-sorted-array/description/ |
+| 17  | Binary Tree Inorder Traversal                            | [#94](https://leetcode.com/problems/binary-tree-inorder-traversal/)                              | [☐](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) |
 | 18  | Same Tree                                                | [#100](https://leetcode.com/problems/same-tree/)                                                 | ☐ |
 | 19  | Symmetric Tree                                           | [#101](https://leetcode.com/problems/symmetric-tree/)                                            | ☐ |
 | 20  | Maximum Depth of Binary Tree                             | [#104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                              | ☐ |
